@@ -1,0 +1,3 @@
+# C-121
+## Output...
+![image](https://user-images.githubusercontent.com/75117366/199462995-d7633f3d-8a26-44be-ba43-84f62568dc15.png)
